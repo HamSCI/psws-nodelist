@@ -1,5 +1,4 @@
-Node,Call sign,Name,Grid,Latitude,Longitude,Elev.,Radio,Antenna,System
-,,,square,,,(m),,,
+Node,Call sign,Name,Grid square,Latitude,Longitude,Elev. (m),Radio,Antenna,System
 1,N8OBJ,John C. Gibbons,EN91fh,41.32,?81.50,285,Grape Gen 1,DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp,"RasPi3B+, Fldigi 4.1.13"
 2,AD8Y,David Kazdan,EN91fl,41.49,?81.57,300,ICOM IC-7610,n/a,"RasPi3B+, Fldigi 4.1.13"
 3,N8OBJ,John C. Gibbons,EN91fh,41.32,?81.50,285,Grape Gen 1,DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp,"RasPi3B+, Fldigi 4.1.13"
@@ -13,7 +12,7 @@ Node,Call sign,Name,Grid,Latitude,Longitude,Elev.,Radio,Antenna,System
 11,N8OBJ,John C. Gibbons,n/a,0,0,0,Grape Gen 1,n/a,"RasPi4B, Fldigi 4.1.13"
 12,WA5FRF,Steve Cerwin,EL09nn,29.57,?98.88,412,ICOM IC-7610 and R8600,"30, 40, and 160?m dipoles","Spectrum Lab, Fldigi 4.1.14"
 13,W3LLA,Maxwell Moran,DL70ln,40.54,?105.04,1511,Yaesu FT-817 wLBGPSDO,Wire,"RasPi4B, Fldigi 4.1.13"
-14,W2NAF,Nathaniel A. Frissell,FN21ei,41.33,?75.60,0,Grape Gen 1,n/a,"RasPi4B, Fldigi 4.1.13"
+14,W2NAF,Nathaniel A.Â Frissell,FN21ei,41.33,?75.60,0,Grape Gen 1,n/a,"RasPi4B, Fldigi 4.1.13"
 15,KD2UHN,Veronica Romanek,FN20mp,40.63,?74.98,136,Grape Gen 1,80?m OCF dipole,"RasPi4B, Fldigi 4.1.13"
 16,WW0WWV,David A Swartz,DN70kn,40.56,?105.11,1546,Grape Gen 1,20?m vertical,"RasPi4B, Fldigi 4.1.13"
 17,WA2UAR,Jay Silber,FM29jw,39.95,?75.17,3,Grape Gen 1,HD6-160 screwdriver,"RasPi4B, Fldigi 4.1.13"
@@ -26,11 +25,11 @@ Node,Call sign,Name,Grid,Latitude,Longitude,Elev.,Radio,Antenna,System
 24,PA0SLT,Wim Apon,JO33kg,53.28,6.9,0,Grape Gen 1,n/a,"RasPi4B, Fldigi 4.1.13"
 25,K2KGJ,Julius Madey,FN32fg,42.26,?73.54,372,n/a,n/a,n/a
 26,KE8QEP,David A. Waugh,EN91id,41.15,?81.25,334,Grape Gen 1,Tuned horiz. dipole 3?m above ground,"RasPi4B, Fldigi 4.1.13"
-27,W0DAS,David A. Swartz,DN70kn,40.56,?105.10,1546,Grape Gen 1,30?m dipole,"RasPi4B, Fldigi 4.1.13"
+27,W0DAS,David A.Â Swartz,DN70kn,40.56,?105.10,1546,Grape Gen 1,30?m dipole,"RasPi4B, Fldigi 4.1.13"
 28,N1JBJ,William P. N. Smith,FN42kn,42.56,?71.09,31,Grape Gen 1,40?m Homebrew dipole,"RasPi4B, Fldigi 4.1.13"
 29,W7LUX,Joseph R Hobart,DM45dc,35.09,?111.69,2091,n/a,n/a,n/a
 30,K4BSE,Jim Farmer,EM73sj,33.39,?84.47,240,Grape Gen 1 Rcvr 1,loop,"RasPi4B, Fldigi 4.1.13"
-31,W1MTI,Vladimir A. Goncharov,FN42fl,42.49,?71.58,100,Grape Gen 1 Rcvr 1,long wire,"RasPi4B, Fldigi 4.1.13"
+31,W1MTI,Vladimir A.Â Goncharov,FN42fl,42.49,?71.58,100,Grape Gen 1 Rcvr 1,long wire,"RasPi4B, Fldigi 4.1.13"
 32,AD0RR,Todd Christell,EM37je,37.18,?93.23,382,n/a,30?m dipole,n/a
 33,AB1XB,Bill Blackwell,FN42el,42.49,?71.59,137,Grape Gen 1 Rcvr 1,30?m dipole,"RasPi4B, Fldigi V4.1.13"
 34,N2RKL,Bill Owens,FN13wd,43.16,?76.12,120,Grape Gen 1 Rcvr 1,magnetic loop,"RasPi4B, Fldigi V4.1.13"
