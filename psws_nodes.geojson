@@ -1,0 +1,661 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.50,41.32,285 ]
+    },
+    "properties": {
+    "Node":1,
+    "Call sign":"N8OBJ",
+    "Name":"John C. Gibbons",
+    "Grid square":"EN91fh",
+    "Radio":"Grape Gen 1",
+    "Antenna":"DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.57,41.49,300 ]
+    },
+    "properties": {
+    "Node":2,
+    "Call sign":"AD8Y",
+    "Name":"David Kazdan",
+    "Grid square":"EN91fl",
+    "Radio":"ICOM IC-7610",
+    "Antenna":"n/a",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.50,41.32,285 ]
+    },
+    "properties": {
+    "Node":3,
+    "Call sign":"N8OBJ",
+    "Name":"John C. Gibbons",
+    "Grid square":"EN91fh",
+    "Radio":"Grape Gen 1",
+    "Antenna":"DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.57,41.49,300 ]
+    },
+    "properties": {
+    "Node":4,
+    "Call sign":"AD8Y",
+    "Name":"David Kazdan",
+    "Grid square":"EN91fl",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.84,40.13,275 ]
+    },
+    "properties": {
+    "Node":5,
+    "Call sign":"KE8HPA",
+    "Name":"Frankie Bonte",
+    "Grid square":"EN80nd",
+    "Radio":"DXF1200",
+    "Antenna":"n/a",
+    "System":"RasPi3B+, Fldigi 4.1.09"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.57,41.49,300 ]
+    },
+    "properties": {
+    "Node":6,
+    "Call sign":"KD8OXT",
+    "Name":"Kristina Collins",
+    "Grid square":"EN91fl",
+    "Radio":"DXF1200",
+    "Antenna":"n/a",
+    "System":"RasPi3B+, Fldigi 4.1.09"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.50,41.32,285 ]
+    },
+    "properties": {
+    "Node":7,
+    "Call sign":"N8OBJ",
+    "Name":"John C. Gibbons",
+    "Grid square":"EN91fh",
+    "Radio":"Grape Gen 1",
+    "Antenna":"DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.57,41.49,300 ]
+    },
+    "properties": {
+    "Node":8,
+    "Call sign":"AD8Y",
+    "Name":"David Kazdan",
+    "Grid square":"EN91fl",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.49,40.17,75 ]
+    },
+    "properties": {
+    "Node":9,
+    "Call sign":"KB3UMD",
+    "Name":"Aidan Montare",
+    "Grid square":"FN20ge",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.28,41.35,330 ]
+    },
+    "properties": {
+    "Node":10,
+    "Call sign":"KD8SYG",
+    "Name":"James Niemann",
+    "Grid square":"EN91ii",
+    "Radio":"Grape Gen 1",
+    "Antenna":"G5RV 80m ~31m long",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0,0 ]
+    },
+    "properties": {
+    "Node":11,
+    "Call sign":"N8OBJ",
+    "Name":"John C. Gibbons",
+    "Grid square":"n/a",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.88,29.57,412 ]
+    },
+    "properties": {
+    "Node":12,
+    "Call sign":"WA5FRF",
+    "Name":"Steve Cerwin",
+    "Grid square":"EL09nn",
+    "Radio":"ICOM IC-7610 and R8600",
+    "Antenna":"30, 40, and 160m dipoles",
+    "System":"Spectrum Lab, Fldigi 4.1.14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.04,40.54,1511 ]
+    },
+    "properties": {
+    "Node":13,
+    "Call sign":"W3LLA",
+    "Name":"Maxwell Moran",
+    "Grid square":"DL70ln",
+    "Radio":"Yaesu FT-817 wLBGPSDO",
+    "Antenna":"Wire",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.60,41.33,0 ]
+    },
+    "properties": {
+    "Node":14,
+    "Call sign":"W2NAF",
+    "Name":"Nathaniel A. Frissell",
+    "Grid square":"FN21ei",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.98,40.63,136 ]
+    },
+    "properties": {
+    "Node":15,
+    "Call sign":"KD2UHN",
+    "Name":"Veronica Romanek",
+    "Grid square":"FN20mp",
+    "Radio":"Grape Gen 1",
+    "Antenna":"80m OCF dipole",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.11,40.56,1546 ]
+    },
+    "properties": {
+    "Node":16,
+    "Call sign":"WW0WWV",
+    "Name":"David A Swartz",
+    "Grid square":"DN70kn",
+    "Radio":"Grape Gen 1",
+    "Antenna":"20m vertical",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.17,39.95,3 ]
+    },
+    "properties": {
+    "Node":17,
+    "Call sign":"WA2UAR",
+    "Name":"Jay Silber",
+    "Grid square":"FM29jw",
+    "Radio":"Grape Gen 1",
+    "Antenna":"HD6-160 screwdriver",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.66,35.3,0 ]
+    },
+    "properties": {
+    "Node":18,
+    "Call sign":"W6BHZ",
+    "Name":"Ethan Yoshio Kita (Cal Poly)",
+    "Grid square":"CM95qh",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.54,33.39,110 ]
+    },
+    "properties": {
+    "Node":19,
+    "Call sign":"AB4EJ",
+    "Name":"Bill Engelke",
+    "Grid square":"EM63fj",
+    "Radio":"Grape Gen 1",
+    "Antenna":"Hexbeam to 80m dipole",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.17,40.74,50 ]
+    },
+    "properties": {
+    "Node":20,
+    "Call sign":"K2MFF",
+    "Name":"Gareth Perry",
+    "Grid square":"FN20vr",
+    "Radio":"Grape Gen 1",
+    "Antenna":"Inverted V",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.35,38.89,220 ]
+    },
+    "properties": {
+    "Node":21,
+    "Call sign":"KV0S",
+    "Name":"Dave Larsen",
+    "Grid square":"EM38tv",
+    "Radio":"n/a",
+    "Antenna":"n/a",
+    "System":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.33,41.19,300 ]
+    },
+    "properties": {
+    "Node":22,
+    "Call sign":"KD8CGH",
+    "Name":"Robert Benedict",
+    "Grid square":"EN91he",
+    "Radio":"Grape Gen 1",
+    "Antenna":"tuned small loop",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.29,38.92,220 ]
+    },
+    "properties": {
+    "Node":23,
+    "Call sign":"KD0EAG",
+    "Name":"Dave Witten",
+    "Grid square":"EM38uw",
+    "Radio":"No_Radio1",
+    "Antenna":"No_Antenna",
+    "System":"RasPi-4, 5.4.51-v7l+"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9,53.28,0 ]
+    },
+    "properties": {
+    "Node":24,
+    "Call sign":"PA0SLT",
+    "Name":"Wim Apon",
+    "Grid square":"JO33kg",
+    "Radio":"Grape Gen 1",
+    "Antenna":"n/a",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.54,42.26,372 ]
+    },
+    "properties": {
+    "Node":25,
+    "Call sign":"K2KGJ",
+    "Name":"Julius Madey",
+    "Grid square":"FN32fg",
+    "Radio":"n/a",
+    "Antenna":"n/a",
+    "System":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.25,41.15,334 ]
+    },
+    "properties": {
+    "Node":26,
+    "Call sign":"KE8QEP",
+    "Name":"David A. Waugh",
+    "Grid square":"EN91id",
+    "Radio":"Grape Gen 1",
+    "Antenna":"Tuned horiz. dipole 3m above ground",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.10,40.56,1546 ]
+    },
+    "properties": {
+    "Node":27,
+    "Call sign":"W0DAS",
+    "Name":"David A. Swartz",
+    "Grid square":"DN70kn",
+    "Radio":"Grape Gen 1",
+    "Antenna":"30m dipole",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.09,42.56,31 ]
+    },
+    "properties": {
+    "Node":28,
+    "Call sign":"N1JBJ",
+    "Name":"William P. N. Smith",
+    "Grid square":"FN42kn",
+    "Radio":"Grape Gen 1",
+    "Antenna":"40m Homebrew dipole",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.69,35.09,2091 ]
+    },
+    "properties": {
+    "Node":29,
+    "Call sign":"W7LUX",
+    "Name":"Joseph R Hobart",
+    "Grid square":"DM45dc",
+    "Radio":"n/a",
+    "Antenna":"n/a",
+    "System":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.47,33.39,240 ]
+    },
+    "properties": {
+    "Node":30,
+    "Call sign":"K4BSE",
+    "Name":"Jim Farmer",
+    "Grid square":"EM73sj",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"loop",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.58,42.49,100 ]
+    },
+    "properties": {
+    "Node":31,
+    "Call sign":"W1MTI",
+    "Name":"Vladimir A. Goncharov",
+    "Grid square":"FN42fl",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"long wire",
+    "System":"RasPi4B, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23,37.18,382 ]
+    },
+    "properties": {
+    "Node":32,
+    "Call sign":"AD0RR",
+    "Name":"Todd Christell",
+    "Grid square":"EM37je",
+    "Radio":"n/a",
+    "Antenna":"30m dipole",
+    "System":"n/a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.59,42.49,137 ]
+    },
+    "properties": {
+    "Node":33,
+    "Call sign":"AB1XB",
+    "Name":"Bill Blackwell",
+    "Grid square":"FN42el",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"30m dipole",
+    "System":"RasPi4B, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.12,43.16,120 ]
+    },
+    "properties": {
+    "Node":34,
+    "Call sign":"N2RKL",
+    "Name":"Bill Owens",
+    "Grid square":"FN13wd",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"magnetic loop",
+    "System":"RasPi4B, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.95,53.25,-2 ]
+    },
+    "properties": {
+    "Node":35,
+    "Call sign":"PA0RWT",
+    "Name":"Robert Wagenvoort",
+    "Grid square":"JO33lg",
+    "Radio":"Flex 1500",
+    "Antenna":"Active E-field probe; MiniWhip",
+    "System":"RasPi3B+, Fldigi 4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.38,42.63,150 ]
+    },
+    "properties": {
+    "Node":36,
+    "Call sign":"KB1HFT",
+    "Name":"George Kavanagh",
+    "Grid square":"FN42hp",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"40m inverted V",
+    "System":"RasPi4B, Raspbian OS, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.50,41.32,285 ]
+    },
+    "properties": {
+    "Node":37,
+    "Call sign":"N8OBJ",
+    "Name":"John C. Gibbons",
+    "Grid square":"EN91fh",
+    "Radio":"Grape Gen 2",
+    "Antenna":"DX Eng RF-PRO-1B Mag Loop w/ N8OBJ preamp",
+    "System":"RasPi4B"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.29,41.019,237 ]
+    },
+    "properties": {
+    "Node":38,
+    "Call sign":"WC0Y",
+    "Name":"Edward Hall (Ward)",
+    "Grid square":"EN71ia",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"EWE wire",
+    "System":"RasPi4B, Raspbian OS, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.28,33.83,316 ]
+    },
+    "properties": {
+    "Node":39,
+    "Call sign":"KM4YMI",
+    "Name":"Beau Bruce",
+    "Grid square":"EM73ut",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"tuned loop",
+    "System":"RasPi3B+, Raspbian OS, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.12,38.91,264 ]
+    },
+    "properties": {
+    "Node":40,
+    "Call sign":"AC0G",
+    "Name":"Michael James Hauan",
+    "Grid square":"EM38ww",
+    "Radio":"OpenHPSDR",
+    "Antenna":"wire antenna",
+    "System":"RasPi3B+, Raspbian OS, Fldigi V4.1.13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.65,40.99,243 ]
+    },
+    "properties": {
+    "Node":41,
+    "Call sign":"N8ET",
+    "Name":"Bill Kelsey",
+    "Grid square":"EN80ex",
+    "Radio":"Grape Gen 1 Rcvr 1",
+    "Antenna":"30m vertical",
+    "System":"RasPi4B, Raspbian OS, Fldigi V4.1.13"
+    }
+  }
+]
+}
